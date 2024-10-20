@@ -1,0 +1,7 @@
+:root {
+    --main-color: #3498db;
+    --secondary-color: #2ecc71;
+    --font-size: 16px;
+    --padding: 10px;
+    --backgroun-primary: linear-gradient(to bottom, #20033D, #482871);
+}
